@@ -5,13 +5,11 @@
 <h1 align="center">Hi 👋, I'm Vishesh Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<!-- ![git image](https://user-images.githubusercontent.com/31867166/197762759-2c8797a0-7b49-409b-8390-1b9526d83bcd.gif) -->
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=19vishesh" alt="19vishesh" /></a> </p>
-
+<!-- ![git image](https://user-images.githubusercontent.com/31867166/197762759-2c8797a0-7b49-409b-8390-1b9526d83bcd.gif) -->
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 - 🔭 I’m currently working on **React**
 
 - 👯 I’m looking to collaborate on **Web Dev Projects**
